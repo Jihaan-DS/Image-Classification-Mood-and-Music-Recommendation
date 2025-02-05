@@ -2,6 +2,3 @@ streamlit
 pandas
 numpy
 tensorflow
-pillow
-PIL
-Image
